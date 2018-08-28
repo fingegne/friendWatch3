@@ -1,0 +1,7 @@
+{
+  "name": "friendWatch",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
